@@ -1,0 +1,40 @@
+//Condicion True o False
+a == b
+a > b
+a < b
+a >= b
+a <= b
+a != b
+
+//el mas simple
+if condicion:
+   sentencia1
+   sentencia2
+sentenciaFueradelIF
+
+//el if-else
+if condicion:
+   sentencia1
+   sentencia2
+else:
+   sentencia3
+   sentencia4
+sentenciaFueradelIF
+
+//if anidados
+if condicion:
+   sentencia1
+   sentencia2
+elif condicion2:
+   sentencia3
+   sentencia4
+elif condicion3:
+   sentencia5
+   sentencia6
+else:
+   sentencia7
+   sentencia8
+sentenciaFueradelIF
+
+//Observaciones
++,-,*,/,%

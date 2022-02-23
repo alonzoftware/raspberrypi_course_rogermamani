@@ -1,0 +1,10 @@
+listas y tuplas
+lista = [3,2,"hola",3.4,9,10]
+         0,1,   2,   3, 4,5
+        -6,-5 , -4  , -3  ,-2,-1
+
+tupla = (5,10,"prueba",39,1)
+
+funciones
+sort() //ordernar la lista
+

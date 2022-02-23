@@ -1,0 +1,14 @@
+enteros, letras, cadenastexto, booleanos,bytes, float
+tipoVariable nombreVariable;
+tipoVariable nombreVariable = ValorInicial;
+
+//Python
+nombreVariable = ValorInicial
+//operar con variables del mismo tipo
+c = a+b, -,*,/
+//cambiar un tipo de variable
+str(dato) ==> para convertir a string
+int(dato) ==> para convertir a entero
+float(dato) ==> para convertir a float
+
+

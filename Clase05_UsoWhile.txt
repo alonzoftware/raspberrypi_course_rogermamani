@@ -1,0 +1,4 @@
+while condicion:
+   sentencia1
+   sentencia2
+sentenciaFueradelWhile

@@ -1,0 +1,4 @@
+for elemento in conjuntodatos:
+   sentencia1
+   sentencia2
+sentenciafueradelFor
