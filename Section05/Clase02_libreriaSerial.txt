@@ -1,0 +1,8 @@
+Libreria: import serial
+s = serial.Serial("/dev/ttyACM0",9600)
+
+Funciones:
+a = s.read() #Lee un byte
+a = s.read(5)  #Leer 5 bytes
+a = s.readline()  # Lee toda la linea
+s.write(data) #data esta en bytes

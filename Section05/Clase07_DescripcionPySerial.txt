@@ -1,0 +1,11 @@
+Libreria pyserial
+
+import serial
+s = serial.Serial(puerto,9600)
+
+Funciones
+dato = s.read()  #Lee un byte
+dato = s.read(n)  #Lee n bytes
+dato = s.readline() ##Lee todo una fila
+s.write(data) #enviar informacion
+s.close()
