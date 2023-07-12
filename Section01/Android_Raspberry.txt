@@ -1,0 +1,13 @@
+
+//Software Android
+https://androidfilehost.com/?fid=4349826312261721851
+
+//entrar modo desarrollador
+terminal apk
+
+//aplicaciones play store
+Opengapps
+
+//terminal del recovery
+#rpi4-recovery.sh boot
+#reboot
